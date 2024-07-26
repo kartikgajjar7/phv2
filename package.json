@@ -1,0 +1,17 @@
+{
+  "name": "photomakerv2",
+  "version": "1.0.0",
+  "main": "snippet.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.8.0",
+    "dotenv": "^16.4.5"
+  },
+  "description": ""
+}
